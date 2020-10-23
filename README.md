@@ -1,4 +1,4 @@
-### Hi there, I'm Siddharth - aka [Siddharth2001132]👋
+### Hi there, I'm Siddharth - aka Siddharth2001132👋
 
 <!--
 **Siddharth2001132/Siddharth2001132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 <img alt="bootstrap" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg"/> 
 <img alt="c" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg"/> 
 <img alt="cplusplus" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"/>
+<img alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> 
 <img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -48,5 +49,5 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[linkedin]: https://www.linkedin.com/in/siddharth-rathod-999a84170/
-[instagram]: https://www.instagram.com/sudo_mr.x/
+----
+![Siddharth's github stats](https://github-readme-stats.vercel.app/api?username=Siddharth2001132&show_icons=true&theme=chartreuse-dark)
