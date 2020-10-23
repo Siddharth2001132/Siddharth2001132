@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 <img alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img alt="bootstrap" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/> 
-<img alt="c" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" width="40" height="40"/> 
-<img alt="cplusplus" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img alt="bootstrap" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg"/> 
+<img alt="c" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg"/> 
+<img alt="cplusplus" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"/>
 <img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -48,3 +48,5 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+[linkedin]: https://www.linkedin.com/in/siddharth-rathod-999a84170/
+[instagram]: https://www.instagram.com/sudo_mr.x/
