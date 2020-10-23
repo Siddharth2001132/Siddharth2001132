@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a Full-stack Project.
 - 🌱 I’m currently learning everything 😊
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love animations
+- ⚡ Fun fact: “Debugging” is like being the 🔍 detective in a crime drama where you are also the murderer.
   
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
   
 ### Connect with me
-
 <p align="left">
 <a href="https://www.linkedin.com/in/siddharth-rathod-999a84170/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
 <a href="https://www.instagram.com/sudo_mr.x/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
@@ -51,3 +50,4 @@ Here are some ideas to get you started:
 
 ----
 ![Siddharth's github stats](https://github-readme-stats.vercel.app/api?username=Siddharth2001132&show_icons=true&theme=chartreuse-dark)
+
