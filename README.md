@@ -20,9 +20,9 @@ Here are some ideas to get you started:
   
 ### Connect with me
 
-<p align="center">
-[<img alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" />][linkedin]
-[<img alt="codeSTACKr | Instagram" width="22px" src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" />][instagram]
+<p align="left">
+<a href="https://www.linkedin.com/in/siddharth-rathod-999a84170/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+<a href="https://www.instagram.com/sudo_mr.x/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
 </p>
 
 ### Languages and Tools:
